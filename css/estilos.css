@@ -42,18 +42,10 @@ body
 {
     font-size: 23px;
 }
-<<<<<<< HEAD
-
-#post
-{
-    background: white;
-    padding: 1em;
-=======
 #footer
 {
     background: #777;
     color: white;
     text-align: center;
     padding: 0.5em;
->>>>>>> 173a1b4d6e29692bf2d72f81c57b735eb0c6b26c
 }
